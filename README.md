@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there! :wave:</h1>
+<h1 align='center'> Hi Everyone :wave:</h1>
 <p align='center'> My name is Muhammad Hadiseptian Nursukamto. I am student Mulawarman University 😎 </p>
 <p align='center'>
    <a href="https://github.com/IAmGroots">
