@@ -1,1 +1,3 @@
-<h1 align='center'> Hi Everyone:wave:</h1>
+<p align="center">
+  <img src="./hello.svg" alt="Hi everyone - Starting">
+</p>
